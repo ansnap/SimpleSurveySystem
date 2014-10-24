@@ -1,0 +1,1 @@
+Simple Survey System written in PHP, MySQL and JavaScript
